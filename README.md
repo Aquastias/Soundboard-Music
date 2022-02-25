@@ -1,2 +1,5 @@
-# Soundboard music for Teamspeak
-Teamspeak3 soundboard music. Just for personal use.
+# Soundboard music for Teamspeak, Discord etc.
+
+This is just for personal use.
+
+Open to the public.
